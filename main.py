@@ -6,7 +6,7 @@ MY_LAT = 47.252940
 MY_LONG = -122.316230
 
 my_gmail = "necodetesting@gmail.com"
-gmail_pw = "apfbufdletsvbwtc"
+gmail_pw = ""
 
 
 def is_iss_overhead():
